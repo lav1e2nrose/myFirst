@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "hw1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.options.statusBarVisibility": "visible"
+	}
+}
